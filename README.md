@@ -1,11 +1,11 @@
 # Advanced VaR Risk Management Dashboard 📈
 
-AI-Enhanced Value at Risk (VaR) Dashboard for Institutional Portfolio Risk Monitoring and Backtesting.
+ML-Enhanced Value at Risk (VaR) Dashboard for Institutional Portfolio Risk Monitoring and Backtesting.
 
 ## Features
 - Historical, Parametric, and Monte Carlo VaR
 - Expected Shortfall (ES) calculation
-- AI-based Market Regime Detection using GMM
+- Market Regime Detection using GMM
 - Backtesting using Kupiec’s POF Test
 - Interactive Visualizations (Plotly)
 - Stress Testing for Financial Crises
